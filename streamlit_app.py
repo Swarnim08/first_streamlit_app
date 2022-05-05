@@ -8,4 +8,6 @@ streamlit.text('🥑🍞 Avocado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
-
+streamlit.text('🥑🍞 Avocado Toast')
+streamlit.text('🥑🍞 Avocado Toast')
+streamlit.text('🥑🍞 Avocado Toast')
